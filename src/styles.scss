@@ -1,4 +1,13 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
 * {
     margin: 0px;
     padding: 0px;
 }
+
+@font-face {
+    font-family: Gilroy;
+    src: url(assets/fonts/Gilroy-ExtraBold.otf) format("opentype");
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

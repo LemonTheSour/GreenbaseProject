@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    width:65vw;
+    align-items: center;
+    justify-content: start;
+}
+
+.searchbar{
+    border:none;
+    width: max-content;
+    color:grey;
+    font-size:larger;
+    padding-left: 8px;
+}
+ .material-symbols-outlined{
+    color:#7E84A3;
+ }
+
+input:focus{
+    outline:none;
+}
