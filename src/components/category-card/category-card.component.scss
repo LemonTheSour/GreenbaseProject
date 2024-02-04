@@ -1,0 +1,31 @@
+.container {
+    height: 330px;
+    width: 400px;
+}
+
+.image{
+    height: 240px;
+    width: 100%;
+    margin-bottom:-4px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    object-fit:cover;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 80px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.title{
+    font-weight:700;
+    font-size: 16px;
+}

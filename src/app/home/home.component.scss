@@ -1,4 +1,37 @@
 .container{
-    width: 100px;
-    padding: 30px;
+    background-color: #F5F6FA;
+    height: 100%;
+    width: 81vw;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.add-category-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1E5EFF;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    height: 40px;
+    width: 174px;
+}
+
+.grid-container{
+    display:inline-grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item{
+    width:450px;
 }

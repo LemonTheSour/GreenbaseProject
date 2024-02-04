@@ -1,0 +1,56 @@
+[
+    {
+        "id":"1",
+        "title":"Mens Clothes",
+        "url": "assets/images/category-mens-clothes.png",
+        "info": "24 items"
+    },
+    {
+        "id":"2",
+        "title":"Womens Clothes",
+        "url": "assets/images/category-womens-clothes.png",
+        "info": "12 items"
+    },
+    {
+        "id":"3",
+        "title":"Accessories",
+        "url": "assets/images/category-accessories.png",
+        "info": "43 items"
+    },
+    {
+        "id":"4",
+        "title":"Cotton Clothes",
+        "url": "assets/images/category-cotton-clothes.png",
+        "info": "31 items"
+    },
+    {
+        "id":"5",
+        "title":"Summer Clothes",
+        "url": "assets/images/category-summer-clothes.png",
+        "info": "26 items"
+    },
+    {
+        "id":"6",
+        "title":"Wedding Clothes",
+        "url": "assets/images/category-wedding-clothes.png",
+        "info": "52 items"
+    },
+    {
+        "id":"7",
+        "title":"Spring Collection",
+        "url": "assets/images/category-spring-clothes.png",
+        "info": "24 items"
+    },
+    {
+        "id":"8",
+        "title":"Casual Clothes",
+        "url": "assets/images/category-casual-clothes.png",
+        "info": "52 items"
+    },
+    {
+        "id":"9",
+        "title":"Hats",
+        "url": "assets/images/category-hats.png",
+        "info": "26 items"
+    }
+]
