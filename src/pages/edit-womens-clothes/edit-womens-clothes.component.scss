@@ -1,0 +1,65 @@
+.container {
+    background-color: #F5F6FA;
+    height:100%;
+    margin-left: 15vw;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.back{
+    display:flex;
+    align-items: center;
+    color:#5A607F;
+    font-size:14px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.buttons{
+    display:flex;
+
+}
+
+.save-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1E5EFF;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    width: 120px;
+}
+
+.cancel-button {
+    display: flex;
+    margin-right:30px;
+    align-items: center;
+    justify-content: center;
+    color: #1E5EFF;
+    border:#D7DBEC;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+    height: 40px;
+    width: 120px;
+}
+
+.content{
+    display:flex;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.products{
+    height:100%;
+}
